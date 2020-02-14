@@ -1,0 +1,24 @@
+{
+  "name": "takeabreak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s023/takeabreak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s023/takeabreak/issues"
+  },
+  "homepage": "https://github.com/s023/takeabreak#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
