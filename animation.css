@@ -1,0 +1,25 @@
+
+.header{
+    font-family: "Futura";
+    font-weight: normal;
+    font-size: 60px;
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #0074d9;
+    border-radius: 50%;
+    
+}
+  
+.animation {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+    min-height: 4
+}
